@@ -44,7 +44,7 @@ brews:
   -
     name: skeema
     tap:
-      owner: skeema
+      owner: dashhudson
       name: homebrew-tap
     commit_author:
       name: goreleaser
